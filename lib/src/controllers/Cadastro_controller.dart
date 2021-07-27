@@ -32,7 +32,7 @@ class cadastroController{
           context: context,
           builder: (context) {
             return AlertDialog(
-              title: Text("Email invalido!"),
+              title: Text("Email inválido!"),
 
             );
           });
